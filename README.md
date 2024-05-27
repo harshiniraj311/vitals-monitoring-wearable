@@ -1,4 +1,4 @@
-# Smart Wearable Device
+# Vitals Monitoring Smart Wearable Device
 
 ## Overview
 This project is a smart wearable device that monitors heart rate and temperature, displaying the data on an OLED screen and transmitting it via Bluetooth. The device is built using an Arduino microcontroller, a pulse sensor, a DS18B20 temperature sensor, an OLED display, and a Bluetooth module.
