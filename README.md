@@ -40,7 +40,7 @@ Connect the components as follows:
 
 ## Installation
 1. Clone this repository: `git clone https://github.com/yourusername/vitals-monitoring-wearable.git`
-2. Open `SmartWearable.ino` with the Arduino IDE.
+2. Open `smartwearable.ino` with the Arduino IDE.
 3. Install the required libraries:
    - `SoftwareSerial`
    - `OneWire`
